@@ -1,2 +1,2 @@
 # CSCI585
-Graduate course
+Database systems
